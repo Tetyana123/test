@@ -15,7 +15,7 @@ function GridExample() {
           <Card>
             <Card.Img
               variant="top"
-              
+
               //src={require("/public/images_card/Arvingarna.avif")}
 
               src={logo}
